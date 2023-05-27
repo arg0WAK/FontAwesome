@@ -1,6 +1,6 @@
-<h1><img src="https://img.fortawesome.com/349cfdf6/fa-free-logo.svg" alt="Font Awesome Free" width="50%"></h1>
+<h1><img src="https://img.fortawesome.com/349cfdf6/fa-pro-logo.svg" alt="Font Awesome Free" width="50%"></h1>
 
-> Version 6 – the iconic SVG, font, and CSS framework
+> Check Relase Page for any Font Awesome Version – the iconic SVG, font, and CSS framework
 
 The internet's most popular icon toolkit has been redesigned and built from
 scratch. On top of this, features like icon font ligatures, an SVG framework,
