@@ -1,4 +1,4 @@
-<h1><img src="https://img.fortawesome.com/349cfdf6/fa-free-logo.svg" alt="Font Awesome Free" width="50%"></h1>
+<h1><img src="https://img.fortawesome.com/349cfdf6/fa-pro-logo.svg" alt="Font Awesome Pro" width="50%"></h1>
 
 > Version 6 – the iconic SVG, font, and CSS framework
 
@@ -105,18 +105,18 @@ we deviate from normal SemVer in the following ways:**
 
 ## License
 
-Font Awesome Free is free, open source, and GPL friendly. You can use it for
+Font Awesome Pro is Pro, open source, and GPL friendly. You can use it for
 commercial projects, open source projects, or really almost whatever you want.
 
 - Icons — CC BY 4.0 License
-  - In the Font Awesome Free download, the CC BY 4.0 license applies to all icons packaged as .svg and .js files types.
+  - In the Font Awesome Pro download, the CC BY 4.0 license applies to all icons packaged as .svg and .js files types.
 - Fonts — SIL OFL 1.1 License
-  - In the Font Awesome Free download, the SIL OLF license applies to all icons packaged as web and desktop font files.
+  - In the Font Awesome Pro download, the SIL OLF license applies to all icons packaged as web and desktop font files.
 - Code — MIT License
-  - In the Font Awesome Free download, the MIT license applies to all non-font and non-icon files.
+  - In the Font Awesome Pro download, the MIT license applies to all non-font and non-icon files.
 
 Attribution is required by MIT, SIL OLF, and CC BY licenses. Downloaded Font
-Awesome Free files already contain embedded comments with sufficient
+Awesome Pro files already contain embedded comments with sufficient
 attribution, so you shouldn't need to do anything additional when using these
 files normally.
 
